@@ -1,18 +1,36 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHgyZHhqcmJsMG0zdnpsdm5xZnVrajY5cm9hMXg1ZmplenZ3d2gwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
+
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=Timpan42&style=flat-square&color=blue" alt="A "/>
 </div>
-<div align="center">
-<h1>
-Hello there, and welcome to my profile 👋
-</h1>
+<div >
+  <h1 align="center">
+    Hello there, and welcome to my profile 👋
+  </h1>
+
+  <p>
+    I am Timpan42 a student that is primary working with websites and java.
+  </p>
+
 </div>
 
-I am Timpan42 a programer that is primary working with websites and java.
-## I have made these websites 🕸
-### A pizza page that I, [Rasmus Johansson ](https://github.com/RasmusJohansson04), and [TomtenPim](https://github.com/TomtenPim) have made 
+<div>
+ <h2 align="center">
+ I have made these websites 🕸
+ </h2>
+ <h3>
+ A pizza page that I, 
+ <a herf="https://github.com/RasmusJohansson04">Rasmus Johansson</a>, and 
+ <a herf="https://github.com/TomtenPim">
+ TomtenPim 
+ </a>
+ have made
+ </h3>
+</div>
+
+###  
 👉 https://timpan42.github.io/te4-pizza/
 
 🤖 Repository: https://github.com/Timpan42/te4-pizza 
