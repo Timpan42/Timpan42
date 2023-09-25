@@ -25,7 +25,10 @@
     <li>🏃‍♂️ I like to work out and play video games</li>
     <li>📬 You can reach me: tim.fagerdal@elev.ga.ntig.se,
     <a href="https://www.linkedin.com/in/tim-fagerdal-a70106293/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></li>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    </li>
+    
   </ul>
 </div>
 
