@@ -28,10 +28,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     </li>
-    
+
   </ul>
 </div>
-
 
 <div >
   <h2 align="center">
