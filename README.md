@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello there, and welcome to my profile 👋
+I am Timpan42 a programer that is primary working with websites and java.
+
+## I have made these websites 🕸
+### A pizza page that I, [Rasmus Johansson ](https://github.com/RasmusJohansson04), and [TomtenPim](https://github.com/TomtenPim) have made 
+👉 https://timpan42.github.io/te4-pizza/
+
+🤖 Repository: https://github.com/Timpan42/te4-pizza 
+
+### A page I made for Stöcke Svets 
+👉 https://stockesvets.se/
 
 <!--
 **Timpan42/Timpan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
