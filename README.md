@@ -56,34 +56,22 @@
   </h2>
   <h3>
     A pizza page that I, 
+    have made
+  </h3>
+  <p>
     <a herf="https://github.com/RasmusJohansson04">Rasmus Johansson</a>, and 
     <a herf="https://github.com/TomtenPim">
     TomtenPim 
     </a>
-    have made
- </h3>
- 
-</div>
+  </p>
 
-###  
-👉 https://timpan42.github.io/te4-pizza/
-
-🤖 Repository: https://github.com/Timpan42/te4-pizza 
+  <a>
+    👉 https://timpan42.github.io/te4-pizza/
+  </a>
+  <p>🤖 Repository: <a> https://github.com/Timpan42/te4-pizza </a></p>
 
 ### A page I made for Stöcke Svets 
 👉 https://stockesvets.se/
 
-<!--
-**Timpan42/Timpan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
