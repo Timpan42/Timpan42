@@ -1,6 +1,16 @@
-# Hello there, and welcome to my profile 👋
-I am Timpan42 a programer that is primary working with websites and java.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHgyZHhqcmJsMG0zdnpsdm5xZnVrajY5cm9hMXg1ZmplenZ3d2gwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=Timpan42&style=flat-square&color=blue" alt="A "/>
+</div>
+<div align="center">
+<h1>
+Hello there, and welcome to my profile 👋
+</h1>
+</div>
 
+I am Timpan42 a programer that is primary working with websites and java.
 ## I have made these websites 🕸
 ### A pizza page that I, [Rasmus Johansson ](https://github.com/RasmusJohansson04), and [TomtenPim](https://github.com/TomtenPim) have made 
 👉 https://timpan42.github.io/te4-pizza/
