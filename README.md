@@ -23,7 +23,9 @@
     <li>🔭 I am currently working on websites, and improving my skills in CSS, and JS, and some Java.</li>
     <li>🪴 I am learning game development in my free time.</li>
     <li>🏃‍♂️ I like to work out and play video games</li>
-    <li>📬 You can reach me: tim.fagerdal@elev.ga.ntig.se</li>
+    <li>📬 You can reach me: tim.fagerdal@elev.ga.ntig.se,
+    <a href="https://www.linkedin.com/in/tim-fagerdal-a70106293/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></li>
   </ul>
 </div>
 
