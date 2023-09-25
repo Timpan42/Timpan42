@@ -54,24 +54,15 @@
   <h2 align="center">
     I have made these websites 🕸
   </h2>
-  <h3>
-    A pizza page that I, 
-    have made
-  </h3>
-  <p>
-    <a herf="https://github.com/RasmusJohansson04">Rasmus Johansson</a>, and 
-    <a herf="https://github.com/TomtenPim">
-    TomtenPim 
-    </a>
-  </p>
+</div>
+ 
+### A pizza page that I, [Rasmus Johansson](https://github.com/RasmusJohansson04), and [TomtenPim](https://github.com/TomtenPim) have made
 
-  <a>
-    👉 https://timpan42.github.io/te4-pizza/
-  </a>
-  <p>🤖 Repository: <a> https://github.com/Timpan42/te4-pizza </a></p>
+👉 https://timpan42.github.io/te4-pizza/
+  
+🤖 Repository: https://github.com/Timpan42/te4-pizza
 
 ### A page I made for Stöcke Svets 
 👉 https://stockesvets.se/
 
 
-</div>
