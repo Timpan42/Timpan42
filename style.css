@@ -36,8 +36,9 @@
 
     --color-fg-dark: #222;
     --color-fg-light: #fcfaf8;
-    --color-bg-dark: #c29ace;
+    --color-bg-dark: #fcf2ff;
     --color-bg-light: rgb(252, 250, 248);
+    --color-link: #410e94;
 }
 
 body {
@@ -68,7 +69,9 @@ p {
     font-weight: 400;
 }
 
-a {}
+a {
+    color: var(--color-link);
+}
 
 ul {
     list-style: none;
@@ -80,6 +83,8 @@ li {}
     width: min(75rem, 100vw - var(--space-xl));
     margin-left: auto;
     margin-right: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .section {
@@ -101,11 +106,21 @@ li {}
 
 .card {
     background-color: var(--color-bg-dark);
-
 }
 
 .card h2 {
     text-align: center;
 }
 
-.list-container {}
+.wrapper {
+    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    position: relative;
+}
+
+.list-container {
+    background-color: var(--color-bg-dark);
+
+}
