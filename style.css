@@ -30,13 +30,23 @@
     --space-xl-2xl: clamp(3.38rem, calc(2.81rem + 2.83vw), 5.00rem);
     --space-2xl-3xl: clamp(4.50rem, calc(3.46rem + 5.22vw), 7.50rem);
 
+    --size-step-0: clamp(1rem, 0.92rem + 0.39vw, 1.25rem);
+    --size-step-1: clamp(1.1875rem, 1.01rem + 0.87vw, 1.75rem);
+    --size-step-2: clamp(1.4375rem, 1.11rem + 1.65vw, 2.5rem);
+    --size-step-3: clamp(1.75rem, 1.19rem + 2.82vw, 3.5625rem);
+    --size-step-4: clamp(2.0625rem, 1.15rem + 4.56vw, 5rem);
+    --size-step-5: clamp(2.5rem, 1.08rem + 7.09vw, 7.0625rem);
+    --size-step-6: clamp(3rem, 0.84rem + 10.78vw, 9.9375rem);
+
     --space-s-l: clamp(1.13rem, calc(0.65rem + 2.39vw), 2.50rem);
+
+    --border-radius: var(--size-step-1);
 
     --base-font: sans-serif;
 
     --color-fg-dark: #222;
     --color-fg-light: #fcfaf8;
-    --color-bg-dark: #fcf2ff;
+    --color-bg-dark: #e6d7eb;
     --color-bg-light: rgb(252, 250, 248);
     --color-link: #410e94;
 }
@@ -120,7 +130,25 @@ li {}
     position: relative;
 }
 
+.grid {
+    display: grid;
+    gap: var(--gutter, var(--space-s-l));
+    grid-template-columns: repeat(var(--grid-placement, auto-fill), minmax(var(--grid-min-item-size, 16rem), 1fr))
+}
+
+.grid[data-rows=masonry] {
+    align-items: start;
+    grid-template-rows: masonry
+}
+
+.grid[data-layout="50-50"] {
+    --grid-placement: auto-fit;
+    --grid-min-item-size: clamp(16rem, 50vw, 26rem);
+}
+
 .list-container {
     background-color: var(--color-bg-dark);
-
+    border-radius: var(--border-radius);
+    max-width: unset;
+    padding: var(--space-m-l);
 }
