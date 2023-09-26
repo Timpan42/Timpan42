@@ -117,7 +117,10 @@ li {}
     margin-bottom: 2.6rem;
 }
 
-.header-container {}
+.header-container {
+    padding-bottom: 5rem;
+
+}
 
 .card {
     background-color: var(--color-bg-dark);
@@ -138,6 +141,17 @@ li {}
     position: relative
 }
 
+
+.img-background-pizza {
+    background-image: url("img/pizza_sida.png");
+    width: 100%;
+    height: 100%;
+}
+
+.img-background-svets {
+    background-image: url("img/stocke_svets.png");
+
+}
 
 .grid {
     display: grid;
