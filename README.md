@@ -56,6 +56,11 @@
   </h2>
 </div>
  
+### My Portfolio
+👉 https://timpan42.github.io/Timpan42/
+
+🤖 Repository: https://github.com/Timpan42/Timpan42
+
 ### A pizza page that I, [Rasmus Johansson](https://github.com/RasmusJohansson04), and [TomtenPim](https://github.com/TomtenPim) have made
 
 👉 https://timpan42.github.io/te4-pizza/
