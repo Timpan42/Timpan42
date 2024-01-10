@@ -52,6 +52,22 @@
 
 <div>
   <h2 align="center">
+    I have made these Games 🎮
+  </h2>
+</div>
+
+### A Pong roglite, with the theme of nordic mythology, that is still in early development.
+Team: [Loke Öberg](https://github.com/LokeOberg04), [Rasmus Johansson](https://github.com/RasmusJohansson04), and me  
+
+👉 https://ostbagaren.itch.io/lokis-tale
+
+### A twin-stick, wave, shooter with a halloween theme. 
+👉 https://charming-trifle-839b1f.netlify.app/
+
+🤖 https://github.com/Timpan42/Halloween-game2
+
+<div>
+  <h2 align="center">
     I have made these websites 🕸
   </h2>
 </div>
