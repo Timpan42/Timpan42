@@ -44,6 +44,8 @@
 
     --base-font: sans-serif;
 
+    --img-scale: 1.001;
+
     --color-fg-dark: #222;
     --color-fg-light: #fcfaf8;
     --color-bg-dark: #e6d7eb;
@@ -81,6 +83,7 @@ p {
 
 a {
     color: var(--color-link);
+    text-decoration: none;
 }
 
 ul {
@@ -141,17 +144,6 @@ li {}
     position: relative
 }
 
-
-.img-background-pizza {
-    background: url("img/pizza_sida.png");
-    background-size: cover;
-}
-
-.img-background-svets {
-    background-image: url("img/stocke_svets.png");
-
-}
-
 .grid {
     display: grid;
     gap: var(--gutter, var(--space-s-l));
@@ -172,7 +164,25 @@ li {}
     background-color: var(--color-bg-light);
     border-radius: var(--border-radius);
     max-width: unset;
+    overflow: hidden;
+
+}
+
+figure{ 
+    margin: 0;
+    padding: 0;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+
+}
+
+figure img{
+    max-width: 100%;
+    transform-origin:center;
+    transform: scale(var(--img-scale));
+}
+
+.card-padding{
     padding: var(--space-m-l);
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0;
 }
