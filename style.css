@@ -51,6 +51,7 @@
     --color-bg-dark: #e6d7eb;
     --color-bg-light: rgb(252, 250, 248);
     --color-link: #410e94;
+    --color-box-bg: #d7e1eb;
 }
 
 body {
@@ -92,12 +93,44 @@ ul {
 
 li {}
 
+
+.header-container {
+    padding-bottom: 5rem;
+}
+
 .container {
     width: min(75rem, 100vw - var(--space-xl));
     margin-left: auto;
     margin-right: auto;
     padding-top: 1rem;
     padding-bottom: 1rem;
+}
+
+.flex-container{
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+}
+
+.center-item{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+    background-color: var(--color-box-bg);
+    border-radius: var(--border-radius);
+}
+
+.box img{
+    max-height: 70%;
+    max-width: 100%;
+    height: 30rem;
+}
+
+figure .img-link{
+    height: 2rem;
 }
 
 .padding {
@@ -118,11 +151,6 @@ li {}
 .region {
     margin-top: 2.6rem;
     margin-bottom: 2.6rem;
-}
-
-.header-container {
-    padding-bottom: 5rem;
-
 }
 
 .card {
@@ -173,7 +201,6 @@ figure{
     padding: 0;
     aspect-ratio: 16 / 9;
     overflow: hidden;
-
 }
 
 figure img{
