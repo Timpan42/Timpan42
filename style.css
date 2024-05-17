@@ -40,6 +40,7 @@
 
     --space-s-l: clamp(1.13rem, calc(0.65rem + 2.39vw), 2.50rem);
 
+    --border-radius-small: var(--size-step-0);
     --border-radius: var(--size-step-1);
 
     --base-font: sans-serif;
@@ -52,6 +53,12 @@
     --color-bg-light: rgb(252, 250, 248);
     --color-link: #410e94;
     --color-box-bg: #d7e1eb;
+    --color-bg-godot: #6495ED;
+    --color-bg-unity: #088F8F;
+    --color-bg-web: #5D3FD3;
+    --color-bg-web-front: #DE3163;
+    --color-bg-web-back: #E49B0F;
+
 }
 
 body {
@@ -123,6 +130,9 @@ li {}
     font-size: var(--step-1);
 }
 
+.about-me-container img {
+    box-shadow: 5px 4px black;
+}
 
 @media screen and (max-width: 900px) {
     .about-me-container {
@@ -212,7 +222,7 @@ figure .img-link {
     border-radius: var(--border-radius);
     max-width: unset;
     overflow: hidden;
-
+    box-shadow: 5px 4px black;
 }
 
 figure {
@@ -231,4 +241,38 @@ figure img {
 .card-padding {
     padding: var(--space-m-l);
     padding-top: 0;
+}
+
+.tag {}
+
+.tag span {}
+
+.card-tag {
+    border-radius: var(--border-radius-small);
+    padding: 6px;
+}
+
+.tag-godot {
+    background-color: var(--color-bg-godot);
+    color: white;
+}
+
+.tag-unity {
+    background-color: var(--color-bg-unity);
+    color: white;
+}
+
+.tag-web {
+    background-color: var(--color-bg-web);
+    color: white;
+}
+
+.tag-web-front {
+    background-color: var(--color-bg-web-front);
+    color: white;
+}
+
+.tag-web-back {
+    background-color: var(--color-bg-web-back);
+    color: white;
 }
