@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h2> My Portfolio </h2>
-    <p>👉 https://timpan42.github.io/CV/</p>
-    <p>🤖 Repository: https://github.com/Timpan42/CV</p>
+    <p>👉 timpan42.github.io/Portfolio/</p>
+    <p>🤖 Repository: https://github.com/Timpan42/Portfolio</p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timpan42&layout=compact" title="Most Used Languages" alt="Most Used Languages">
 </div>
